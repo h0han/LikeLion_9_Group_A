@@ -8,6 +8,8 @@
 
 다운로드 링크 : https://git-scm.com/downloads
 
+설치 참고 사이트 : https://gabii.tistory.com/entry/Git-Git-Bash-219-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
+
 명령어 참고 사이트 : https://gbsb.tistory.com/10
 
 
